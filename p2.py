@@ -16,3 +16,4 @@ def greet(name):
 
 print(greet("World"))
 
+print("This is a test of the Python code in p2.py")
